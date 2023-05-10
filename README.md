@@ -1,2 +1,3 @@
-# An example of a bug report in a webpage format 
-  A bug was found during the sign-up process on the Starbucks website.
+# A Bug Report _ Starbucks _ SignUp
+The Bug Report is created for the bug found in the sign up test, and it is implemented in the form of a web page using HTML and CSS.
+
